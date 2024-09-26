@@ -1,0 +1,15 @@
+{
+  "name": "02-mapty",
+  "version": "1.0.0",
+  "description": "mapping",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VC 😅",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "sass": "^1.79.3"
+  }
+}
